@@ -1,0 +1,15 @@
+body {
+    background-color:aliceblue;
+}
+
+h1 {
+    color:#378789;
+}
+h2 {
+    color:darkmagenta;
+}
+
+.orange-text {
+    color:#989830; 
+    font-size: 25px;
+}
