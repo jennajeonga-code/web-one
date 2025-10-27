@@ -1,0 +1,66 @@
+body {
+    background-color: #ffcfcf;
+}
+
+.type1 {
+    font-family: "Lobster Two";
+    font-weight: 600;
+    font-size: 2em
+}
+
+.type2 {
+    font-family: "Libre Baskerville";
+    font-size: larger;
+    letter-spacing: 3px
+}
+
+.type3 {
+    font-family: "Bricolage Grotesque";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.type4 {
+    font-family: "Playwrite DE SAS";
+    font-size: large;
+    font-weight: 100;
+}
+
+.type5 {
+    font-family: "Bodoni Moda";
+    font-size: 40px;
+    line-height: 4px;
+    text-align:center
+}
+
+.type6 {
+    font-family: "Parisienne";
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.type7 {
+    font-family: "Playwrite VN Guides";
+    font-size: 40px;
+    line-height: 20px;
+    text-align: right
+}
+
+.type8 {
+    font-family: "Special Elite";
+    font-size: 3em;
+    letter-spacing: 5px;
+}
+
+.type9 {
+    font-family: "Raleway";
+    font-size: 20px;
+    line-height: 1.8em;
+    text-align: justify
+}
+
+.type10 {
+    font-family: "Special Elite";
+    font-size: medium;
+    text-align:right;
+}
