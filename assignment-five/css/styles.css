@@ -1,0 +1,49 @@
+body {
+    background-color: yellow;
+    border: 2px solid red;
+    border-radius: 10px;
+    width:fit-content;
+    height: 800px;
+}
+
+.outer-box {
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    border: 4px solid red;
+    border-radius: 10px;
+    margin: 30px
+}
+
+.type1 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin: 30px 200px 300px 200px;
+}
+
+.type2 {
+    background-color: blue;
+    width: 150px;
+    height: 200px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin: -250px 300px 200px 20px;
+}
+
+.type3 {
+    background-color: orange;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    margin: -170px 200px 200px 170px;
+}
+
+.outer-box2 {
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: -150px 300px auto 1px
+}
