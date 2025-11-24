@@ -1,0 +1,54 @@
+
+
+.outer-box {
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: cadetblue;
+    width: 600px;
+    height: auto;
+}
+
+.inner-box1 {
+    background-image:url("../image/hayden.JPG");
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.inner-box2 {
+    background-image:url("../image/hayden.JPG");
+    background-size: 200px;
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.inner-box3 {
+    background-image:url("../image/hayden.JPG");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center right;
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: cadetblue;
+}
+
+.inner-box4 {
+    object-fit: fill;
+    display: block;
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: cadetblue;
+}
+
+.inner-box5 {
+    object-fit: contain;
+    display: block;
+    width: 450px;
+    height: 450px; 
+    margin: 50px auto;
+    background-color: cadetblue;
+    object-position: center bottom;
+}
